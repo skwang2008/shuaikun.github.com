@@ -1,4 +1,4 @@
-## Welcome to Shuaikun's Pages
+## Welcome to My Pages
 
 You can use the [editor on GitHub](https://github.com/skwang2008/shuaikun.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
